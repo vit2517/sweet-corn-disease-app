@@ -4,7 +4,7 @@ const routes = [
     path: '/',
     component: () => import('layouts/MainLayout.vue'),
     children: [
-      { path: '', component: () => import('src/pages/IndexPage.vue') }
+      { path: '', component: () => import('https://github.com/vit2517/sweet-corn-disease-app.git') }
     ]
   },
 
