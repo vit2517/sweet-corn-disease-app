@@ -51,46 +51,46 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
   {
-    title: 'Docs',
-    caption: 'quasar.dev',
-    icon: 'school',
-    link: 'https://quasar.dev'
+    title: 'โรคราน้ำค้าง',
+    caption: 'การป้องกันรักษา',
+    icon: 'Downy mildew',
+    link: 'https://www.doa.go.th/fc/nakhonsawan/?p=1441'
   },
   {
-    title: 'Github',
-    caption: 'github.com/quasarframework',
-    icon: 'code',
-    link: 'https://github.com/quasarframework'
+    title: 'โรคใบด่างแคระ',
+    caption: 'การป้องกันรักษา',
+    icon: 'Maize dwarf mosaic virus',
+    link: 'https://nsfcrc-news.blogspot.com/2008/04/blog-post_18.html'
   },
   {
-    title: 'Discord Chat Channel',
-    caption: 'chat.quasar.dev',
-    icon: 'chat',
-    link: 'https://chat.quasar.dev'
+    title: 'โรคใบไหม้แผลใหญ่',
+    caption: 'การป้องกันรักษา',
+    icon: 'Northern Corn Leaf Blight',
+    link: 'https://nsfcrc-news.blogspot.com/2015/11/blog-post_13.html'
   },
   {
-    title: 'Forum',
-    caption: 'forum.quasar.dev',
-    icon: 'record_voice_over',
-    link: 'https://forum.quasar.dev'
+    title: 'โรคใบไหม้แผลเล็ก',
+    caption: 'การป้องกันรักษา',
+    icon: 'Southern Corn Leaf Blight',
+    link: 'https://www.doa.go.th/fc/nakhonsawan/?p=3793'
   },
   {
-    title: 'Twitter',
-    caption: '@quasarframework',
-    icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev'
+    title: 'โรคใบด่างอ้อย',
+    caption: 'การป้องกันรักษา',
+    icon: 'Sugarcane Mosaic Virus',
+    link: 'https://www.doa.go.th/fc/nakhonsawan/?p=3281'
   },
   {
-    title: 'Facebook',
-    caption: '@QuasarFramework',
-    icon: 'public',
-    link: 'https://facebook.quasar.dev'
+    title: 'โรคราสนิม',
+    caption: 'การป้องกันรักษา',
+    icon: 'Southern corn rust)',
+    link: 'https://nsfcrc-news.blogspot.com/2009/10/blog-post_12.html'
   },
   {
-    title: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev'
+    // title: 'Quasar Awesome',
+    // caption: 'Community Quasar projects',
+    // icon: 'favorite',
+    // link: 'https://awesome.quasar.dev'
   }
 ]
 

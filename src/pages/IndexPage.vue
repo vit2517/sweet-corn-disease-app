@@ -139,7 +139,7 @@ export default {
         Symptoms.value = "ลักษณะอาการ ใบ ลำต้น กาบใบ ฝัก ช่อดอกตัวผู้ แสดงอาการเป็นมีจุดนูนเล็กสีน้าตาลแดง ถ้าเป็นโรครุนแรงจะทำให้ใบแห้งตาย";
         Impact.value = "ผลกรทบ ผลผลิตลดลงประมาณครึ่งหนึ่ง น้ำหนักของฝักและจำนวนฝักลดลง";
         Management.value = "การป้องกัน ใช้สารเคมี สกอร์ (ไดพีโนคลอนาโซล difenoconazole25%) ใช้พัธุ์ต้านทาน กาจัดวัชพืชและเผาทำลายต้นพืชที่เป็นโรค";
-        return "SR (Stewart's Wilt)";
+        return "SR (Southern corn rust)";
       } else {
         // If the prediction doesn't match any known diseases, log an error
         console.error('Prediction does not match any known diseases.');
