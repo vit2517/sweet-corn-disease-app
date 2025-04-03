@@ -104,7 +104,7 @@ export default {
         Symptoms.value = "ข้าวโพดมีสีเขียงสดไม่มีโรคและแมลง";
         Impact.value = "ใบข้าวโพดสีเขียวสดไม่แสดงอาการ";
         Management.value = "ป้องกันไม่ให้เกิดโรค";
-        return 'HT (Hail Damage)';
+        return 'HT (Healthy)';
       } else if (predictedLabel == 'MDMV') {
         console.log('Prediction: Corn Disease - MDMV');
         Caused_by.value = "โรคใบด่างแคระ เกิดจากเซื้อไวรัส Maize dwarf mosaic virus แพร่ระบาดโดยอาศัยเพลี้ยอ่อนข้าวโพด เพลี้ยอ่อนหญ้าดูดเชื้อจากต้นเป็นโรคไปถ่ายทอดสู่อีกต้นปกติ";
