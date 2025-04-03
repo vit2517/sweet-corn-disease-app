@@ -53,37 +53,37 @@ const linksList = [
   {
     title: 'โรคราน้ำค้าง',
     caption: 'การป้องกันรักษา',
-    icon: 'Corn plant',
+    icon: 'Corn',
     link: 'https://www.doa.go.th/fc/nakhonsawan/?p=1441'
   },
   {
     title: 'โรคใบด่างแคระ',
     caption: 'การป้องกันรักษา',
-    icon: 'Corn plant',
+    icon: 'Corn',
     link: 'https://nsfcrc-news.blogspot.com/2008/04/blog-post_18.html'
   },
   {
     title: 'โรคใบไหม้แผลใหญ่',
     caption: 'การป้องกันรักษา',
-    icon: 'Corn plant',
+    icon: 'Corn',
     link: 'https://nsfcrc-news.blogspot.com/2015/11/blog-post_13.html'
   },
   {
     title: 'โรคใบไหม้แผลเล็ก',
     caption: 'การป้องกันรักษา',
-    icon: 'Corn plant',
+    icon: 'Corn',
     link: 'https://www.doa.go.th/fc/nakhonsawan/?p=3793'
   },
   {
     title: 'โรคใบด่างอ้อย',
     caption: 'การป้องกันรักษา',
-    icon: 'Corn plant',
+    icon: 'Corn',
     link: 'https://www.doa.go.th/fc/nakhonsawan/?p=3281'
   },
   {
     title: 'โรคราสนิม',
     caption: 'การป้องกันรักษา',
-    icon: 'Corn plant)',
+    icon: 'Corn',
     link: 'https://nsfcrc-news.blogspot.com/2009/10/blog-post_12.html'
   },
   {
