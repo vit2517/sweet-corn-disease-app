@@ -28,7 +28,7 @@
         <q-item-label
           header
         >
-          Essential Links
+          ประเภทของโรค ข้อมูลเพิ่มเติม
         </q-item-label>
 
         <EssentialLink
