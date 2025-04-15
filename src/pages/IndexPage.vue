@@ -5,11 +5,10 @@
         <div class="q-gutter-md">
           <div class="row items-center q-mb-md">
             <!-- Video and Canvas Elements -->
-            <val REQUEST_CODE_PERMISSIONS></val> 
-            <val REQUIRED_PERMISSIONS = arrayOf(Manifest.permission.CAMERA)></val>
+            <val required_permissions = arrayOf(Manifest.permission.CAMERA)></val>
             <val cameraProvider = cameraProviderFuture.get></val>
             <val preview = Preview.Builder().build></val>
-            <val cameraSelector = CameraSelector.DEFAULT_BACK_CAMERA></val>
+            <val camera = Camera.default_back_camera></val>
             <video ref="video" autoplay playsinline class="q-mb-md" style="width: 100%; max-height: 300px;"></video>
             <canvas ref="canvas" style="display: none;"></canvas>
             <q-btn @click="captureImage" label="Capture Image" color="primary" class="full-width" />
