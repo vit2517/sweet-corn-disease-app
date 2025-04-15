@@ -5,6 +5,7 @@
         <div class="q-gutter-md">
           <div class="row items-center q-mb-md">
             <!-- Video and Canvas Elements -->
+            <val cameraSelector = CameraSelector.DEFAULT_BACK_CAMERA></val>
             <video ref="video" autoplay playsinline class="q-mb-md" style="width: 100%; max-height: 300px;"></video>
             <canvas ref="canvas" style="display: none;"></canvas>
             <q-btn @click="captureImage" label="Capture Image" color="primary" class="full-width" />
